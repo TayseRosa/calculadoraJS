@@ -1,0 +1,7 @@
+//### MVC - MODEL, VIEW, CONTROLLER ###
+//MODEL - INTERFACE QUE O USUARIO INTERAGE
+//CONTROLLER - REGRAS DE NEGOCIO
+//MODEL - TRATA DADOS NO BD
+
+window.calculator = new CalcController();
+
